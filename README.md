@@ -1,4 +1,4 @@
-# Security in Node.js
+# Security in Node.js 🥇
 
 **How would you secure a web application backend without any form of user authentication ?**
 
@@ -29,6 +29,10 @@ In memory cache is also implemented so as to decrease server load and response t
 **Clone the repo:**
 
 `git clone <url>`
+
+**Install dependencies**
+
+`npm install`
 
 **Add a NASA API KEY**
 
